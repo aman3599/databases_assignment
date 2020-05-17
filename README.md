@@ -6,8 +6,8 @@ For a given Relation (Table) with given attributes and set of FDs, identify the 
 #### USAGE:
 1. javac module1
 2. java module1
-3. <<Attributes seperated by sapce>>
-4. <<FD's with form A,B C,D>>
+3. << Attributes seperated by sapce >>
+4. << FD's with form A,B C,D >>
 
 ## Module2
 Q: Simulation of Extendible hashing scheme.
@@ -19,4 +19,4 @@ Support with Insertion and Searching
 
 #### USAGE:
 1. javac module2.java
-2. java module2 <<bucket_size>> (default=3)
+2. java module2 << bucket_size >> (default=3)
